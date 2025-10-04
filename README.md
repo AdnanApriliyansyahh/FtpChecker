@@ -3,5 +3,5 @@
 ### How to use
 
 ```
-python3 main.py subdomain.txt -o tesult.txt
+python3 main.py subdomain.txt -o result.txt
 ```
